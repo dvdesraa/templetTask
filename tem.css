@@ -1,0 +1,101 @@
+.car
+{
+    background-image: url(images/2020_shelby_gt500_blue_1.jpg);
+    width: 100%;
+    height: 500px;
+    background-size: cover ;
+    background-repeat: no-repeat ;
+    background-position: center ;
+    
+}
+.car h1 {
+    text-align: center ;
+    color:brown;
+    padding-top: 100px ;
+    font-style: oblique;
+}
+.car p
+{
+    text-align: center ;
+    color:darksalmon;
+    font-style: oblique;
+    
+}
+.car button {
+    background: none;
+    border: 1px solid #fff;
+    text-align: center;
+    margin-left: 8%;
+    margin-top: 15%;
+    cursor: pointer;
+    color: #fff;
+    padding: 2px;
+}
+
+.pictures1 
+{
+    width :30%;
+    float: left; 
+}
+.pictures1 img {
+    width: 100%;
+   padding: 10px;  
+    border: 5px solid ;
+    border-bottom-color: black;
+    margin-left: 10%;
+    margin-top: 350px;
+}
+.text p
+{
+    float:right;
+    width: 40%; 
+   margin-right: 20% ;
+    margin-top:200px;
+    font-size: 30px ;
+}
+.pictures2 
+{
+   width :30%;
+    float:right; 
+} 
+
+.pictures2 img
+{
+    width: 100%;
+   padding:10px;  
+    border: 5px solid ;
+    border-bottom-color: black;
+    margin-right: 5%;
+    margin-top:100px;
+}
+.text2 p
+{
+    float:right;
+    width: 40%; 
+   margin-right: 10% ;
+    margin-top:300px;
+    font-size: 30px ; 
+}
+.infor
+{
+    background-color: bisque;
+    width: 100% ;
+    margin-top:800px;
+    
+}
+h2{
+    text-align: center;
+    font-size: 50px;
+    font-style: oblique;
+}h3{
+    text-align: center;
+    font-size: 50px;
+    color:black;
+    font-style: oblique;
+}
+.fab fa-facebook-f
+{
+    text-align: center;
+    color: bisque;
+    size :5px;
+}
